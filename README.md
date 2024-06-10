@@ -1,7 +1,7 @@
-![image](https://github.com/ChiamakaChude/Insurance-Claim-Prediction/assets/49746571/e28ca583-40c9-4cfe-8b7c-1d299cdf6875)<h3>Car Insurance Claim Prediction</h3>
+<h2>Car Insurance Claim Prediction</h2>
 This project aims to predict car insurance claims using machine learning models. The dataset, sourced from Kaggle, includes various features related to car insurance policies and claims.
 
-<h4>Project Overview</h4>
+<h3>Project Overview</h3>
 <b>Data Preparation:</b>
 
 The dataset is loaded and cleaned, including handling missing values and removing duplicates.
